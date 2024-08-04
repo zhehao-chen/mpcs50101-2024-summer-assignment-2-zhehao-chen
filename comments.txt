@@ -1,0 +1,21 @@
+    #keep ask if no break
+        #end of asking
+            #this is a string
+        #if user input is not a interger, then interger convert will lead to a ValueError
+    #end of asking
+        #using if, elif, else in this way can exclude the input being evaluated once
+    #if user input is not a interger, then interger convert will lead to a ValueError
+    #compare the value of number and letters
+    speical = set("!@#$%")
+    #compare the value to see if special characters exist
+    #compare the value to see if both lower and capital exist
+    # a transparency middle value
+    #while loop to get the sum
+#remove the space
+#while loop to check if it is a palindrome
+    #break if there is a difference
+    #while loop to print 
+# Problem 8
+# Jay Chen
+# create a function to print result
+# a while loop for asking if user wants to play again
